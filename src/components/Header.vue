@@ -49,8 +49,7 @@ header {
   margin: 0% 5%;
 }
 
-nav {
-}
+
 
 .container {
   display: flex;
