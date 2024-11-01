@@ -86,9 +86,7 @@ export default {
 /* .checkbox {
   display: inline;
 } */
-* {
-  /* border: solid; */
-}
+
 button {
   background-color: #5b2f91;
   padding: 10px;
